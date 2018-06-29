@@ -10,4 +10,6 @@ We are a community of developers in Seattle, WA who share knowledge with each ot
 * [Request to Speak](request-to-speak.md)
     - [Talk Ideas](talk-ideas.md)
 * Request to Sponsor
-* Attend a Meetup
+* [Attend a Meetup](https://www.meetup.com/seaphp/)
+
+
