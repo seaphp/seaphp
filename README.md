@@ -8,5 +8,6 @@ We are a community of developers in Seattle, WA who share knowledge with each ot
 ## Ways to Participate
 
 * Request to Speak
+    - [Talk Ideas](talk-ideas.md)
 * Request to Sponsor
 * Attend a Meetup
