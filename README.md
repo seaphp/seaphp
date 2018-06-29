@@ -7,7 +7,7 @@ We are a community of developers in Seattle, WA who share knowledge with each ot
 
 ## Ways to Participate
 
-* Request to Speak
+* [Request to Speak](request-to-speak.md)
     - [Talk Ideas](talk-ideas.md)
 * Request to Sponsor
 * Attend a Meetup
